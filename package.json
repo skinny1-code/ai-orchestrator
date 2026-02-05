@@ -1,0 +1,23 @@
+{
+  "name": "ai-orchestrator",
+  "version": "1.0.0",
+  "description": "Multi-AI decision engine that queries GPT-4, Claude, Gemini, and Perplexity simultaneously",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "ai",
+    "orchestrator",
+    "gpt-4",
+    "claude",
+    "gemini",
+    "perplexity",
+    "decision-making"
+  ],
+  "author": "Raw",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
